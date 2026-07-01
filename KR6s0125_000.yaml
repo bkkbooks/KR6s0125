@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0125/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴宗章疏并因明錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2177.xml
+    old_id: T55n2177
+hash: sha256:afc7b9aca7b6fed2322a68d8e95c2cc9310b3510d34a06af054d1aa402d2d9c0

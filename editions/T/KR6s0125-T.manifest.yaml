@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6s0125/T/v1
+canonical_location: https://kanripo.org/bkk/KR6s0125/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴宗章疏并因明錄
+  identifiers:
+    krp: KR6s0125
+    cbeta: T55n2177
+    cbeta_old_id: T55n2177
+    authorityid: CA0001467
+    json_key: T2177
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2177.xml
+    old_id: T55n2177
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0125_000-T.yaml, hash: 'sha256:afc7b9aca7b6fed2322a68d8e95c2cc9310b3510d34a06af054d1aa402d2d9c0'}
+  - {seq: 1, filename: KR6s0125_001-T.yaml, hash: 'sha256:99496885a27b5797c7b8309319c87692f67c177548a830dfb8e0df873141cb2e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0125_000-T.markers.yaml, hash: 'sha256:91427686c917df2752daf36dc894b620bdb59319b867c675f47be54b40167d02'}
+  - {seq: 1, role: markers, filename: assets/KR6s0125_001-T.markers.yaml, hash: 'sha256:5f048846b7e69ad3e15e61837a1098d10e03f7133b76b6c12dd94038096f6f92'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0125_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2461
+  label: 華嚴宗章疏并因明錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0125_T_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 序
+  type: mulu
+  level: 1
+hash: sha256:e5d9516cb01936a74dc6fc15b2ec3299120e4a04e9f3a31d76be1255891417ad
